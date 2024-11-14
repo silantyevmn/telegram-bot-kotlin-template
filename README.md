@@ -21,3 +21,5 @@ Before use this example bot try to create database and do command
 ```
 
 Don't forget change your properties in [build.gradle.kts](build.gradle.kts)
+
+Create bot https://tlgrm.ru/docs/bots
